@@ -11,3 +11,7 @@ I
 src/main/kotlin/Basics.kt,7\5\7595f1f30d73ff04a518f257c311674e961c6d22
 N
 src/main/kotlin/PersonClass.kt,9\7\972f35033c5dced49327a3fefb1e3c125e9f346a
+S
+#src/main/kotlin/CallJavaInKotlin.kt,0\8\086eb7d8dab672b51b2f90c98af883af106ebd82
+U
+%src/main/java/JavaClassForKotlin.java,b\a\ba7fe3f5b8ae3215c8a8a0391bbcb8c368ec8bd6
